@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<QUIZ>
+<question>
+<word>Technologie du Web</word>
+<hint>Que signifie HTML?</hint>
+<answer>Hyper Text markup Language</answer>
+<option1>Hyper Text markup Language</option1>
+<option2>Hyperliens and Text markup Language</option2>
+<option3>Home Tool Markup Language</option3>
+<option4>Aucune de ces réponses</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Que signifie DTD?</hint>
+<answer>Définition de type document</answer>
+<option1>Définition de type dynamique</option1>
+<option2>Définition de type directe</option2>
+<option3>Définition de type document</option3>
+<option4>Je ne sais pas</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Quelle affirmation est vraie?</hint>
+<answer>Tous les éléments XML doivent être en minuscules</answer>
+<option1>Tous les documents XML doivent avoir une DTD</option1>
+<option2>Tous les éléments XML doivent être en minuscules</option2>
+<option3>Toutes les déclarations sont vraies</option3>
+<option4>Tous les éléments XML doivent être correctement fermés</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Quelle affirmation n'est PAS vraie?</hint>
+<answer>Les balises XML sont sensibles à la casse</answer>
+<option1>Les éléments XML doivent être correctement imbriqués</option1>
+<option2>Les balises XML sont sensibles à la casse</option2>
+<option3>L'espace blanc n'est pas conservé en XML</option3>
+<option4> Les documents XML doivent avoir une balise racine</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Qu’est-ce que le prologue d’un document XML ?</hint>
+<answer>Il s’agit de la première ligne du document XML qui permet notamment de renseigner la version de XML utilisé, l’encodage et si le document XML est lié à un autre fichier</answer>
+<option1>Il s’agit d’une introduction au document XML dans lequel on peut écrire un bref résumé de ce que le document va contenir</option1>
+<option2>Il s’agit de la première ligne du document XML qui permet notamment de renseigner la version de XML utilisé, l’encodage et si le document XML est lié à un autre fichier</option2>
+<option3>Ça n’existe pas</option3>
+<option4>C’est une balise XML un peu spéciale permettant d’envoyer son document XML sur le web</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Quelle différence y a-t-il entre une DTD et un Schéma?</hint>
+<answer>Un Schéma est en XML mais une DTD pas</answer>
+<option1>Une DTD s’utilise dans un navigateur mais un Schéma pas</option1>
+<option2>La syntaxe d’un Schéma se retrouve sur le site internet de W3C alors que celui d’une
+DTD pas</option2>
+<option3>Un Schéma est en XML mais une DTD pas</option3>
+<option4>Un Schéma est plus compact qu’une DTD</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Avec quel standard peut-on établir des liens simples ou complexes entre des ressources en
+XML?</hint>
+<answer>XLink</answer>
+<option1>XConnect</option1>
+<option2>XPath</option2>
+<option3>XLink</option3>
+<option4>XPath</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Quelle transformation ne peut-on pas réaliser avec XLST et/ou XSL-FO?</hint>
+<answer>de PDF vers XML</answer>
+<option1>de XSL vers XML</option1>
+<option2>de XML vers PDF</option2>
+<option3>de PDF vers XML</option3>
+<option4>de XML vers HTML</option4>
+</question>
+
+<question>
+<word>Technologie du Web</word>
+<hint>La partie HEAD d'un fichier HTML contient.....</hint>
+<answer>La balise TITLE</answer>    
+<option1>Toutes les balises d'un fichier HTML</option1>
+<option2> Les balises du BODY</option2>
+<option3>La balise TITLE</option3>
+<option4> Aucune de ces réponses</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Les attributs sont-ils obligatoires dans une balise ?</hint>
+<answer>Non</answer>
+<option1>Non</option1>
+<option2>Ça dépend de la balise</option2>
+<option3>Oui, une balise doit obligatoirement avoir un attribut décrivant son type (chaîne de caractères, entier, etc.)</option3>
+<option4>Oui, afin d’être le plus précis possible sur le contenu de la balise</option4>   
+</question>
+
+<question>
+<word>XML</word>
+<hint>Que veut dire l’acronyme XML ?</hint>
+<answer>eXtensible Markup Language</answer>
+<option1>eXtensible Many Language</option1>
+<option2>eXtra Manual Language</option2>
+<option3>eXtensible Markup Language</option3>
+<option4>eXtra Multiple Language</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Quel langage peut être considéré comme l’ancêtre du XML ?</hint>
+<answer>le SGML</answer>
+<option1>le YAML</option1>
+<option2>le HTML</option2>
+<option3>le SGML</option3>
+<option4>le JSON</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>En XML, les balises à utiliser sont-elles imposées comme en HTML ?</hint>
+<answer>Non</answer>
+<option1>Oui</option1>
+<option2>Non</option2>
+<option3>Je ne sais pas</option3>
+<option4>Aucune réponse n'est correcte</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Pouvez-vous écrire du XML sans un logiciel dédié ?</hint>
+<answer>Oui, n’importe quel éditeur de fichier texte suffit</answer>
+<option1>Non, il faut obligatoirement un outil du type EditiX</option1>
+<option2>Oui, n’importe quel éditeur de fichier texte suffit</option2>
+<option3>Je ne sais pas</option3>
+<option4>Aucune réponse n'est correcte</option4>
+</question>
+
+<question>
+<word>Technologie du Web</word>
+<hint> HTTP est :</hint>
+<answer>un protocole</answer>    
+<option1>le langage générique pour écrire des pages HTML</option1>
+<option2>un protocole</option2>
+<option3>un éditeur de document HTML</option3>
+<option4>un moteur de recherches</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Le XML est un langage informatique appartenant à quelle famille ?</hint>
+<answer>La famille des langages de description</answer>
+<option1>La famille des langages de requête</option1>
+<option2>La famille des langages de programmation</option2>
+<option3>Aucune, ce n’est pas un “vrai” langage informatique</option3>
+<option4>La famille des langages de description</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Quelle affirmation n'est PAS vraie?</hint>
+<answer>Les balises XML sont sensibles à la casse</answer>
+<option1>Les éléments XML doivent être correctement imbriqués</option1>
+<option2>Les balises XML sont sensibles à la casse</option2>
+<option3>L'espace blanc n'est pas conservé en XML</option3>
+<option4> Les documents XML doivent avoir une balise racine</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Les valeurs d'attribut XML doivent toujours être mises entre guillemets</hint>
+<answer>Vrai</answer>
+<option1>Vrai</option1>
+<option2>Faux</option2>
+<option3>Je ne sais pas </option3>
+<option4></option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Que signifie XSL?</hint>
+<answer>eXtensible Stylesheet Language</answer>
+<option1>eXtensible Stylesheet Language</option1>
+<option2>Langage de style eXtra</option2>
+<option3>Langage de style extensible </option3>
+<option4>Liste des styles extensible</option4>
+</question>
+
+<question>
+<word>XML</word>
+<hint>Quelle affirmation est vraie?</hint>
+<answer>Aucune des deux autres affirmations n'est vraie</answer>
+<option1>Les attributs doivent apparaître dans l'ordre défini</option1>
+<option2>Les attributs doivent toujours être présents</option2>
+<option3>Aucune des deux autres affirmations n'est vraie </option3>
+<option4>Je ne sais pas</option4>
+</question>
+
+</QUIZ>
